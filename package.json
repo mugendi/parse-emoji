@@ -1,0 +1,22 @@
+{
+  "name": "parse-emoji",
+  "version": "1.0.0",
+  "description": "Tool to pass Emojis and smileys from text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "analysis",
+    "nlp",
+    "emoji"
+  ],
+  "author": "Anthony Mugendi (ngurumugz@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "retext": "^0.6.0",
+    "retext-emoji": "^0.5.4",
+    "retext-walk": "^0.1.5"
+  }
+}
